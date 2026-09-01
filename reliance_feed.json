@@ -1,0 +1,53 @@
+{
+  "symbol": "RELIANCE",
+  "company_name": "Reliance Industries Ltd",
+  "exchange": "NSE",
+  "as_of_timestamp": "2026-09-01T09:45:00+05:30",
+  "data_feed_status": "LIVE",
+  "price_data": {
+    "last_traded_price": 2984.60,
+    "prev_close": 2951.20,
+    "day_change_pct": 1.13,
+    "return_5d_pct": 3.40,
+    "return_30d_pct": 5.05,
+    "52wk_high": 3217.90,
+    "52wk_low": 2221.00
+  },
+  "signals": {
+    "price_momentum": {
+      "value": 0.64,
+      "indicator_basis": "RSI(14)=59.1, MACD histogram positive for 3 sessions, price above 50 DMA but below 20 DMA",
+      "classification": "MILDLY_BULLISH",
+      "confidence": 0.68,
+      "reasoning": "Momentum is positive but weaker than the 30-day trend suggests; short-term MA crossover has not confirmed yet, so confidence is moderate rather than high."
+    },
+    "volume_anomaly": {
+      "current_volume": 7120340,
+      "avg_volume_30d": 6980110,
+      "anomaly_ratio": 1.02,
+      "classification": "NORMAL",
+      "confidence": 0.9,
+      "reasoning": "Volume is within 5% of the 30-day average, indicating no unusual accumulation or distribution activity today."
+    },
+    "sentiment": {
+      "score": -0.31,
+      "scale": "-1 (very negative) to +1 (very positive)",
+      "sources_count": 63,
+      "source_mix": {
+        "news_articles": 19,
+        "earnings_call_transcript_mentions": 4,
+        "analyst_notes": 11,
+        "social_and_forum_mentions": 29
+      },
+      "classification": "MILDLY_NEGATIVE",
+      "confidence": 0.7,
+      "reasoning": "Negative skew driven by analyst commentary flagging margin compression risk in the O2C segment, partially offset by positive retail-segment same-store-sales chatter."
+    }
+  },
+  "conflict_flag": {
+    "present": true,
+    "description": "Price momentum agent classifies MILDLY_BULLISH while sentiment agent classifies MILDLY_NEGATIVE on the same instrument at the same timestamp.",
+    "synthesis_layer_expected_behavior": "Do not average the two into a false neutral. Surface both classifications with their independent confidence scores, cite the source disagreement explicitly, and lower the overall recommendation confidence rather than silently picking one side."
+  },
+  "degraded_scenario": null
+}
