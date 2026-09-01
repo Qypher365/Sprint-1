@@ -1,0 +1,73 @@
+SYNTHETIC DOCUMENT — GENERATED FOR HACKATHON DEMO PURPOSES ONLY
+This filing is fictional and does not represent an actual disclosure by Tata Motors Ltd or any
+real entity. Prepared for HackVerse: Into the Web, Sprint 1, VIT Chennai, 2026.
+
+---
+
+FORM FILED UNDER REGULATION 33 OF THE SEBI (LISTING OBLIGATIONS AND DISCLOSURE
+REQUIREMENTS) REGULATIONS, 2015
+
+Company: Tata Motors Limited
+CIN: U28920MH1945PLC004520 (synthetic)
+Filing type: Standalone and Consolidated Unaudited Financial Results
+Quarter and period ended: Q1 FY27 (April–June 2026)
+Date of Board Meeting: 29 July 2026
+Date of filing to Exchanges: 30 July 2026
+
+SECTION 1 — FINANCIAL HIGHLIGHTS (CONSOLIDATED)
+
+Total revenue from operations for the quarter stood at INR 1,08,420 crore, an increase of
+9.4% year-on-year from INR 99,110 crore in the corresponding quarter of the previous
+financial year. EBITDA margin for the quarter was 12.8%, compared to 11.6% in Q1 FY26,
+attributed primarily to improved realizations in the Jaguar Land Rover (JLR) segment and
+favorable commodity costs in the domestic commercial vehicles business. Profit after tax
+attributable to owners of the company was INR 5,860 crore against INR 3,990 crore in the
+year-ago quarter.
+
+Net automotive debt at the end of the quarter was INR 18,200 crore, down from INR 24,600
+crore at the end of Q1 FY26, reflecting continued deleveraging in line with the company's
+stated FY27 net-debt-free target for the standalone India business.
+
+SECTION 2 — SEGMENT PERFORMANCE
+
+Jaguar Land Rover: Wholesale volumes for the quarter were 108,400 units, up 6.1% year-on-
+year. Order book at quarter end stood at approximately 152,000 units globally, with the
+Range Rover and Defender nameplates continuing to represent the majority of order book
+value. Management noted continuing semiconductor supply normalization with no material
+production disruption during the quarter.
+
+Commercial Vehicles (India): Domestic CV volumes grew 4.2% year-on-year, led by demand
+in the medium and heavy commercial vehicle (M&HCV) category on the back of increased
+infrastructure and mining sector activity. Market share in M&HCV stood at 39.1% for the
+quarter.
+
+Passenger Vehicles and Electric Mobility (India): Domestic PV volumes, including electric
+vehicles, grew 3.8% year-on-year. Electric vehicle volumes crossed 24,000 units for the
+quarter, representing approximately 11.6% of total domestic PV volumes, with the company
+citing continued ramp-up of the Punch EV and Curvv EV models.
+
+SECTION 3 — MANAGEMENT COMMENTARY
+
+The Executive Director stated that the company remains focused on its stated capital
+allocation priorities: deleveraging the automotive balance sheet, sustaining investment in
+electric and connected vehicle platforms, and maintaining JLR's premiumization strategy.
+Management flagged input cost volatility in battery-grade lithium and steel as a monitorable
+risk for the remainder of FY27, alongside currency translation exposure from JLR's UK and
+European operations.
+
+SECTION 4 — OUTLOOK STATEMENT
+
+The Board noted that while near-term demand indicators in the domestic CV cycle remain
+constructive, management continues to monitor global macroeconomic conditions, including
+interest rate trajectories in key export markets, that could affect discretionary vehicle
+purchase decisions in the passenger vehicle segment over FY27.
+
+SECTION 5 — DECLARATION
+
+This disclosure is made in compliance with Regulation 33 and Regulation 30 read with
+Schedule III Part A of the SEBI (LODR) Regulations, 2015. The financial results were
+reviewed by the Audit Committee and approved by the Board of Directors at its meeting held
+on 29 July 2026. A copy of the limited review report issued by the statutory auditors is
+enclosed as Annexure A (not reproduced in this synthetic excerpt).
+
+END OF SYNTHETIC FILING
